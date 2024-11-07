@@ -61,7 +61,7 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 //LOKAL
 
-EXTINF:-1 group-title="Indonesia" ch-number="200"  tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV VISION
+#EXTINF:-1 group-title="Indonesia" ch-number="200"  tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV VISION
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -70,7 +70,7 @@ EXTINF:-1 group-title="Indonesia" ch-number="200"  tvg-id="ANTV.id" tvg-logo="ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-EXTINF:-1 group-title="Indonesia" ch-number="200"  ch-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV
+#EXTINF:-1 group-title="Indonesia" ch-number="200"  ch-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV intec
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch108.m3u8
 
@@ -83,6 +83,7 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
@@ -92,13 +93,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #EXTINF:-1 group-title="Indonesia" ch-number="200" tvg-id="FMN.id" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png",FMN (Telenovela)
 https://newanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-
-#EXTINF:-1 group-title="Indonesia" ch-number="201" tvg-id="Maleo.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png",Maleo
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Indonesia" ch-number="202" tvg-id="PopMusik.id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png",POP Musik
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia" ch-number="203"ch-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",TRANS 7
