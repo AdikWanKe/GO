@@ -13,13 +13,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 
-#EXTINF:-1 group-title="Indonesia" ch-number="192" tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png" group-title="ENTERTAINMENT",DUNIA LAIN (Indi)
+#EXTINF:-1 group-title="Indonesia" ch-number="192" tvg-logo="https://yt3.googleusercontent.com/d4LEMkqSXaX8fius3xQF7pNkGXCIjXugy541ocKfoM7GeGWT276turvrnTdxT_ZO_S29ofrr=s160-c-k-c0x00ffffff-no-rj",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 
-#EXTINF:-1 group-title="Indonesia" ch-number="193" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="MOVIES",FLIK A (Indi)
+#EXTINF:-1 group-title="Indonesia" ch-number="193" tvg-logo="https://images.indihometv.com/tvposter/flik.png",FLIK A
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
